@@ -23,7 +23,7 @@ A powerful, fully customisable **Fake Discord Rich Presence** plugin for [Vencor
 1. Clone or download this repository into your Vencord `userplugins` directory:
    ```bash
    cd Vencord/src/userplugins
-   git clone https://github.com/YOUR_USERNAME/FakeDiscordRP.git fakeDiscordRP
+   git clone https://github.com/imigrant1616-dot/FakeDiscordRP.git fakeDiscordRP
    ```
 2. Build Vencord:
    ```bash
@@ -43,6 +43,11 @@ A powerful, fully customisable **Fake Discord Rich Presence** plugin for [Vencor
    - **Grafika** (Upload `.gif`/image or paste URL)
    - **Czas** (e.g. `140h 30m 20s` or `1h`)
 3. Click **Zapisz** – your profile instantly updates live!
+
+---
+
+## 👤 Author
+- **[imigrant1616-dot](https://github.com/imigrant1616-dot)**
 
 ---
 
